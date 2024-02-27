@@ -121,8 +121,8 @@ print(query_result)
 
 ## Output:
 
-![1](1.png)
-![2](2.png)
+![1](1.PNG)
+![2](2.PNG)
 
 ## Result:
 
